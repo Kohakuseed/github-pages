@@ -9,19 +9,19 @@
 
 # GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Create a site or blog from your GitHub repositories ._
 
 </header>
 
 <!--
   <<< Author notes: Course start >>>
-  Include start button, a note about Actions minutes,
+  Include start button, a note about ,
   and tell the learner why they should take the course.
 -->
 
 ## Welcome
 
-With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
+With GitHub Pages, you can host project blogs, documentation, you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
 
 - **Who is this for**: Beginners, students, project maintainers, small businesses.
 - **What you'll learn**: How to build a GitHub Pages site.
